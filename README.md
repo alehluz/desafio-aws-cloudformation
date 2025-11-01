@@ -1,6 +1,5 @@
-![AWS CloudFormation Banner](https://d1.awsstatic.com/product-marketing/CloudFormation/CloudFormation_Hero_2.46d72d8b5bb2e3e14caa2a174a1a6f4f6d8a7e9a.png)
 
----  
+#  Implementando Infraestrutura Automatizada com AWS CloudFormation
 
 Este desafio faz parte do **Bootcamp AWS Foundations** da DIO e tem como propósito entender na prática como o **AWS CloudFormation** permite **automatizar a criação e gerenciamento da infraestrutura** de forma simples, confiável e escalável.
 
@@ -76,7 +75,5 @@ O CloudFormation aceita dois formatos principais de template:
 >  **Conclusão:** CloudFormation simplifica a gestão de infraestrutura, reduz erros humanos e acelera o deploy de soluções AWS.
 
 
-
-## 🌟 Resultado Final  
 
 > “Com o CloudFormation, consegui visualizar como automatizar completamente a infraestrutura e criar ambientes consistentes e seguros em poucos cliques.”

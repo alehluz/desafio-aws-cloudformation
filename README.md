@@ -32,6 +32,7 @@ Durante o desafio, explorei o processo de criação de **pilhas (Stacks)** e **S
 - Visualizei como cada recurso é gerado automaticamente a partir do modelo.  
 
  **Captura:**  
+ 
 ![Criação de Pilha](./Pilha_CloudFormation.png)
 
 ---
@@ -40,6 +41,7 @@ Durante o desafio, explorei o processo de criação de **pilhas (Stacks)** e **S
 - Configurei um **StackSet** chamado `teste-cloud-formation` para entender como é possível implantar várias pilhas em diferentes contas ou regiões AWS, de forma simultânea.  
 
  **Captura:**  
+ 
 ![StackSet CloudFormation](./stack_cloudformation.png)
 
 
